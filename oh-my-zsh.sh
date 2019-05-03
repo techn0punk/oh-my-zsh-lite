@@ -117,3 +117,4 @@ else
     fi
   fi
 fi
+# vim:set filetype:#!/bin/sh

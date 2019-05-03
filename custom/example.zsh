@@ -8,3 +8,7 @@
 # brainstormr=~/Projects/development/planetargon/brainstormr
 # cd $brainstormr
 #
+#    \    \                                      |                     |    
+#  (  | (  | ____| -_) \ \ /   _` |   ` \   _ \  |   -_)    _  / (_-<    \  
+# \__/ \__/      \___|  _\_\ \__,_| _|_|_| .__/ _| \___| _) ___| ___/ _| _| 
+#                                         _|                                
